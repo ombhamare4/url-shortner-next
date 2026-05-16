@@ -6,6 +6,14 @@ The implementation follows the classic "Design a URL Shortener" system design wr
 
 ---
 
+## Preview
+
+![Landing page](public/images/image1.png)
+
+![Shortened result](public/images/image2.png)
+
+---
+
 ## What this project does
 
 - Accepts a long URL and returns a short 7-character code (`/Ab3xZ9q`).
